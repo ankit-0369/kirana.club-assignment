@@ -3,6 +3,11 @@
 
 This project implements a backend service that processes thousands of images collected from stores, fulfilling the requirements outlined in the assignment. The service is built using Go with Dockerized support for seamless deployment and scalability.
 
+## Project Repo Url
+  ```bash
+  https://github.com/ankit-0369/kirana.club-assignment
+  ```
+
 ## Project Description
 
 The service provides two primary APIs:
@@ -28,7 +33,7 @@ The system calculates the perimeter of images (`2 * [Height + Width]`) and simul
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/ankit-0369/kirana.club-assignment.git
    cd retail_pulse_project
    ```
 
